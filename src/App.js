@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Header from './components/header';
+import Main from './components/main';
 
 class App extends Component {
   constructor(props) {
@@ -41,14 +42,7 @@ class App extends Component {
       <div className="App">
         <Header />
         <header className="App-header">
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-           
-          </a>
+        <Main />
         </header>
       </div>
     );

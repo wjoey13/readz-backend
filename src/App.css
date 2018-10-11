@@ -5,7 +5,7 @@
 
 
 .App-header {
-  background-color: #282c34;
+  background-image: url('https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1fd72b80aa0b43f74015163c2ad6fcc5&w=1000&q=80');
   min-height: 100vh;
   display: flex;
   flex-direction: column;
